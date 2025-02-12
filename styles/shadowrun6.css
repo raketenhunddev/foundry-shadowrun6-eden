@@ -383,3 +383,7 @@
 .chat-message .soak-result .revertDamageCheck .damage-revert-text {
   display: inline; 
 }
+
+.chat-message .edgePerform {
+  margin-bottom: 0.5em;
+}
